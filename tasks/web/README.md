@@ -1,2 +1,1 @@
-# ngskel
-AngularJs skeleton
+Taskmanager versione 1!
